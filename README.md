@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="g.jpg" width="850" height="350" alt="AI meme"/>
+  <img src="g.jpg" width="650" height="350" alt="AI meme"/>
 </p>
 
 <h1 align="center">Hey there 👋, I'm Tariqul Islam</h1>
