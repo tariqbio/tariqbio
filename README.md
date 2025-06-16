@@ -41,7 +41,7 @@ Let’s solve real problems with meaningful AI.
 
 ### 📌 Highlighted Projects
 
--  [Salinity-Resilient Crop Health Monitoring](https://sites.google.com/diu.edu.bd/tariqleafdiseasedetection/home)  
+-  [Salinity-Resilient Crop Health Monitoring](https://github.com/tariqbio/luffa_aegyptiaca_disease_detection)  
   → Created a 6K+ image dataset & trained ViT/CNN models for automated disease classification.
 
 -   Mendeley (Verified by Plant Pathologist)](https://doi.org/10.17632/nym8bw5hr6.3)
@@ -50,7 +50,7 @@ Let’s solve real problems with meaningful AI.
 
 ### 📬 Want to Connect?
 
-- 💼 [Full CV](https://drive.google.com/file/d/1zU1MAAtZJWv_weBIBWelvUp0992klrLw/view)
+- 💼 [LinkedIn](https://www.linkedin.com/in/tariqislam0/)
 - 🌐 [Portfolio](https://sites.google.com/view/tariqportfolioo/about)
 - 📧 Email: **trq.islm0@gmail.com**
 
