@@ -1,19 +1,61 @@
-<h1 align="center">Hi 👋, I'm Tariqul</h1>
-<h3 align="center">Aspired to become R&D scientist in the field of Computer Vision.</h3>
-
-- 📄 Bachelor's Thesis [Salinity-Resilient Crop Health Monitoring](https://sites.google.com/diu.edu.bd/tariqleafdiseasedetection/home)
-
-- 👀 Want to know more? [https://sites.google.com/view/tariqportfolioo/about](https://sites.google.com/view/tariqportfolioo/about)
-
-- 📫 How to reach me **trq.islm0@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zU1MAAtZJWv_weBIBWelvUp0992klrLw/view](https://drive.google.com/file/d/1zU1MAAtZJWv_weBIBWelvUp0992klrLw/view)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tariqislam0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tariqislam0/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/trq.islm#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/trq.islm#" height="30" width="40" /></a>
+<p align="center">
+  <img src="g.jpg" width="850" height="350" alt="AI meme"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<h1 align="center">Hey there 👋, I'm Tariqul Islam</h1>
+
+<h3 align="center">Machine Learning Enthusiast | Computer Vision Researcher | Aspiring Scientist</h3>
+
+
+### 👨‍🔬 About Me
+
+I’m a CSE graduate from Dhaka, building bridges between machine learning and the real world.  
+From detecting diseases in salinity-resilient crops to assisting field research on climate and health, my work blends **code, data, and context**.  
+
+I’ve:
+- 🧪 Built and published a verified dataset for leaf disease classification  
+- 🧠 Trained ViT & CNN models for 99.85% accuracy  
+- 🎤 Supported international science communication for climate-smart agriculture  
+- 📚 Taught over 150+ students Python, ML, and data science fundamentals  
+
+I enjoy figuring things out — not just with code, but with **people, patterns, and purpose**.  
+Let’s solve real problems with meaningful AI.
+
+
+---
+
+### ⚙️ Technologies I Work With
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%20Language-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+</p>
+
+---
+
+### 📌 Highlighted Projects
+
+-  [Salinity-Resilient Crop Health Monitoring](https://sites.google.com/diu.edu.bd/tariqleafdiseasedetection/home)  
+  → Created a 6K+ image dataset & trained ViT/CNN models for automated disease classification.
+
+-   Mendeley (Verified by Plant Pathologist)](https://doi.org/10.17632/nym8bw5hr6.3)
+
+---
+
+### 📬 Want to Connect?
+
+- 💼 [Full CV](https://drive.google.com/file/d/1zU1MAAtZJWv_weBIBWelvUp0992klrLw/view)
+- 🌐 [Portfolio](https://sites.google.com/view/tariqportfolioo/about)
+- 📧 Email: **trq.islm0@gmail.com**
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="1000" height="300" alt="Thank you gif"/>
+</p>
