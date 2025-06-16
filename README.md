@@ -15,7 +15,7 @@ From detecting diseases in salinity-resilient crops to assisting field research 
 I’ve:
 - 🧪 Built and published a verified dataset for leaf disease classification  
 - 🧠 Trained ViT & CNN models for 99.85% accuracy  
-- 🎤 Supported international science communication for climate-smart agriculture  
+- 🎤 Supported international conferences for science communication based on climate-smart agriculture  
 - 📚 Taught over 150+ students Python, ML, and data science fundamentals  
 
 I enjoy figuring things out — not just with code, but with **people, patterns, and purpose**.  
